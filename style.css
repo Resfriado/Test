@@ -1,6 +1,6 @@
 .border {
-  border: dotted;
+  border: 5px blue;
 }
 .border2 {
-  
+  border: 5px red
 }

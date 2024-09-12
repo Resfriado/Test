@@ -4,10 +4,8 @@
 .border {
   text-align: center;
   border: dotted 5px blue;
-  width: 600px;
 }
 .border2 {
   text-align: center;
   border: dotted 5px red;
-  width: 600px;
 }

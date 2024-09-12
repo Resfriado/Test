@@ -2,7 +2,6 @@
   text-align: center;
 }
 .border {
-  text-align: left;
   border: dotted 5px blue;
   border-radius: 30px;
   width: 500px;
@@ -20,5 +19,5 @@
 }
 .ul {
   display: inline-block;
-  text-align: left;
+  text-align: center;
 }

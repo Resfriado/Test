@@ -3,9 +3,7 @@
 }
 .border {
   border-dotted: 5px blue;
-  width: 600px;
 }
 .border2 {
-  border-dotted: 5px solid red;
-  width: 600px;
+  border-dotted: 5px red;
 }

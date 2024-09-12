@@ -1,6 +1,8 @@
 .border {
-  margin: 5px blue;
+  border-dotted: 5px blue;
+  width: 600px;
 }
 .border2 {
-  border: 5px solid red;
+  border-dotted: 5px solid red;
+  width: 600px;
 }

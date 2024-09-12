@@ -2,8 +2,10 @@
   text-align: center;
 }
 .border {
+  text-align: center;
   border: dotted 5px blue;
 }
 .border2 {
+  text-align: center;
   border: dotted 5px red;
 }

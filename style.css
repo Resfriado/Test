@@ -4,15 +4,15 @@
 .border {
   text-align: center;
   border: dotted 5px blue;
-  border-radius: 10px;
+  border-radius: 30px;
   width: 500px;
   margin: 0 auto;
   vertical-align: middle;
 }
 .border2 {
   text-align: center;
-  border: dotted 5px yellow;
-  border-radius: 10px;
+  border: dotted 5px red;
+  border-radius: 30px;
   width: 500px;
   margin: 0 auto;
 }

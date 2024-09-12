@@ -15,3 +15,11 @@
   width: 500px;
   margin: 0 auto;
 }
+.ol {
+  display: inline-block;
+  text-align: center;
+}
+.ul {
+  display: inline-block;
+  text-align: center;
+}

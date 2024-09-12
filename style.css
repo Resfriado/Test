@@ -4,8 +4,10 @@
 .border {
   text-align: center;
   border: dotted 5px blue;
+  border-radius: 10px;
 }
 .border2 {
   text-align: center;
   border: dotted 5px red;
+  border-radius: 10px;
 }

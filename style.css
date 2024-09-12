@@ -2,8 +2,8 @@
   text-align: center;
 }
 .border {
-  border-dotted: 5px blue;
+  border: dotted 5px blue;
 }
 .border2 {
-  border-dotted: 5px red;
+  border: dotted 5px red;
 }

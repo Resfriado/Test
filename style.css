@@ -1,3 +1,6 @@
+.h1 {
+  text-align: center;
+}
 .border {
   border-dotted: 5px blue;
   width: 600px;

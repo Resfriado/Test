@@ -7,8 +7,6 @@
   border-radius: 30px;
   width: 500px;
   margin: 0 auto;
-  vertical-align: middle;
-  display: inline-block;
 }
 .border2 {
   text-align: center;
@@ -16,5 +14,4 @@
   border-radius: 30px;
   width: 500px;
   margin: 0 auto;
-  display: inline-block;
 }

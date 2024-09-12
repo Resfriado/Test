@@ -2,12 +2,14 @@
   text-align: center;
 }
 .border {
+  text-align: center;
   border: dotted 5px blue;
   border-radius: 30px;
   width: 500px;
   margin: 0 auto;
 }
 .border2 {
+  text-align: center;
   border: dotted 5px red;
   border-radius: 30px;
   width: 500px;
@@ -15,9 +17,9 @@
 }
 .ol {
   display: inline-block;
-  text-align: center;
+  text-align: left;
 }
 .ul {
   display: inline-block;
-  text-align: center;
+  text-align: left;
 }
